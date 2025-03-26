@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "name": "simple_counter",
+      "entrypointFileName": "./src/contracts/simple_counter.tolk",
+      "optimizationLevel": 0,
+      "withStackComments": true,
+      "experimentalOptions": ""
+    }
+  ]
+}
